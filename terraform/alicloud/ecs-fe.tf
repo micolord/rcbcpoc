@@ -93,3 +93,6 @@ resource "alicloud_instance" "bo_fe_ecs_instance_1" {
   }
 
 }
+
+
+//Creation of ECS Instance
